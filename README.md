@@ -13,23 +13,18 @@ INSTALLATION:
 To run Keeper locally, follow these steps:
 
 Clone the repository:
-
 git clone https://github.com/timfiloye/keeper.git
-cd keeper
+cd keeper.
 
 
-Install dependencies:
-
-npm install
+Install dependencies: npm install.
 
 
-Start the application:
+Start the application: npm run dev.
 
-npm run dev
-Open the app:
-Open your web browser and go to http://localhost:3000.
+Open the app: Open your web browser and go to http://localhost:5173.
 
-Usage
+Usage:
 Add a Note: Click on the "Add" button, enter the title and content of the note, and press "Save".
 Delete a Note: Click on the "Delete" button on the note you want to remove.
 
